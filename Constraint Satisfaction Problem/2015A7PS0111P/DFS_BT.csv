@@ -1,0 +1,26 @@
+Courses,Professor,Day,Time,whether Lecture/Tutorial/Lab?,Room number(h-# or l-#)
+C_02,Prof-5,Monday,09:00,Lecture,H_1
+C_02,Prof-5,Tuesday,09:00,Lecture,H_1
+C_02,Prof-5,Wednesday,09:00,Lecture,H_1
+C_02,Prof-5,Monday,02:00,Lab,L_1
+C_02,Prof-5,Monday,03:00,Lab,L_1
+C_02,Prof-5,Monday,04:00,Lab,L_1
+C_02,Prof-5,Tuesday,02:00,Lab,L_1
+C_02,Prof-5,Tuesday,03:00,Lab,L_1
+C_02,Prof-5,Tuesday,04:00,Lab,L_1
+C_03,Prof-6,Monday,10:00,Lecture,H_1
+C_03,Prof-6,Tuesday,10:00,Lecture,H_1
+C_03,Prof-6,Wednesday,10:00,Lecture,H_1
+C_03,Prof-6,Monday,02:00,Lab,L_2
+C_03,Prof-6,Monday,03:00,Lab,L_2
+C_03,Prof-6,Wednesday,02:00,Lab,L_1
+C_03,Prof-6,Wednesday,03:00,Lab,L_1
+C_05,Prof-3,Monday,09:00,Lecture,H_2
+C_05,Prof-3,Tuesday,09:00,Lecture,H_2
+C_05,Prof-3,Wednesday,09:00,Lecture,H_2
+C_05,Prof-3,Monday,02:00,Lab,L_3
+C_05,Prof-3,Monday,03:00,Lab,L_3
+C_05,Prof-3,Monday,04:00,Lab,L_2
+C_05,Prof-3,Tuesday,02:00,Lab,L_2
+C_05,Prof-3,Tuesday,03:00,Lab,L_2
+C_05,Prof-3,Tuesday,04:00,Lab,L_2
